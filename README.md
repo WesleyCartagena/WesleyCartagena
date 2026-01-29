@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wesley Cartagena</h1>
-<h3 align="center">A passionate Software Developer from New York</h3>
+<h3 align="center">A passionate Developer from New York residing in Florida</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleycartagena&label=Profile%20views&color=0e75b6&style=flat" alt="wesleycartagena" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Guardians Central Destiny 2 Website](https://guardianscentral.gg/)
 
-- 🌱 I’m currently learning **C#, .NET, React.js, Node.js**
+- 🌱 I’m currently learning **SQL, PySpark**
 
 - 👨‍💻 All of my projects are available at [https://wesleycartagena.com/](https://wesleycartagena.com/)
 
